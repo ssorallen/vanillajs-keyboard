@@ -13,3 +13,5 @@ a requirement. Chrome didn't exist at the time.
 ## Real Life Demo
 
 [http://ssorallen.com/vanillajs-keyboard/](http://ssorallen.com/vanillajs-keyboard/)
+
+![](screenshot.png)

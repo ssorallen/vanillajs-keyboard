@@ -8,7 +8,7 @@ final minutes of the time limit, and it worked.
 
 No 3rd party libraries were allowed, and it had to work in Safari and Firefox.
 There were some brownie points for working in Internet Explorer, but it wasn't
-a requirement. Chrome didn't exist at the time.
+a requirement. Chrome had just been released but wasn't a requirement yet.
 
 ## Real Life Demo
 

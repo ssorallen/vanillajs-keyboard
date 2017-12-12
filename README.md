@@ -13,6 +13,6 @@ a requirement. Chrome had just been released but wasn't a requirement yet.
 
 ## Real Life Demo
 
-[http://ssorallen.com/vanillajs-keyboard/](http://ssorallen.com/vanillajs-keyboard/)
+[https://ssorallen.github.io/vanillajs-keyboard/](https://ssorallen.github.io/vanillajs-keyboard/)
 
 ![](screenshot.png)
